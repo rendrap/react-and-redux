@@ -7,7 +7,7 @@ const Homepage = () => (
     <p>React, Redux Router</p>
     <Link to="about" className="btn btn-primary btn-lg">
       Learn More
-        </Link>
+    </Link>
   </div>
 )
 
